@@ -1,4 +1,4 @@
-from collections import Sequence
+from collections.abc import Sequence
 from contextlib import contextmanager
 from enum import Enum
 from typing import Dict, List, Tuple, Union
